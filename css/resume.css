@@ -8,7 +8,7 @@ body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
   color: #868e96;
-  background-color: lightyellow;
+  background-color: #ffffe0;
 }
 
 @media (min-width: 992px) {
@@ -59,8 +59,8 @@ p.lead {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
-  color: #fff !important;
+  background-color: #008000;
+  color: #ffff00 !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
@@ -73,7 +73,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #dda0dd;
 }
 
 .dev-icons {
